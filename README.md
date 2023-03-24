@@ -1,4 +1,3 @@
-<div align="center">
 
 ## Hi! 👋 I'm Stina!
 
@@ -44,7 +43,8 @@
 - [View code](https://github.com/stormstina/Ankademin-quiz)
 
 ### Tech Stack *(as of now)*
-    
+<div align="center">
+
 <img  src="JsLogo.svg" alt="JavaScript Logo" width="50" height="50"/> &nbsp;
 <img  src="HtmlLogo.svg" alt="HTML Logo" width="50" height="50"/> &nbsp;
 <img  src="CssLogo.svg" alt="CSS" width="50" height="50"/>
