@@ -9,6 +9,20 @@
 
 #### ✨ Portfolio
 
+
+[Star Wars Trivia](https://stormstina.github.io/star-wars-trivia/) | [Star Wars Trivia](https://stormstina.github.io/star-wars-trivia/) 
+--- | --- 
+![Star Wars Trivia Image](https://raw.githubusercontent.com/stormstina/stormstina/main/star-wars-trivia.png) | ![Star Wars Trivia Image](https://raw.githubusercontent.com/stormstina/stormstina/main/star-wars-trivia.png)  
+
+
+
+[Star Wars Trivia](https://stormstina.github.io/star-wars-trivia/) | [Star Wars Trivia](https://stormstina.github.io/star-wars-trivia/) 
+--- | --- 
+![Star Wars Trivia Image](https://raw.githubusercontent.com/stormstina/stormstina/main/star-wars-trivia.png) | ![Star Wars Trivia Image](https://raw.githubusercontent.com/stormstina/stormstina/main/star-wars-trivia.png)  
+
+
+
+
 ##### Star Wars Trivia
 - Object Oriented assignment
 - 
