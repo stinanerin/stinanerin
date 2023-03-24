@@ -20,27 +20,34 @@
 ![Star Wars Trivia Image](https://raw.githubusercontent.com/stormstina/stormstina/main/star-wars-trivia.png) | ![Star Wars Trivia Image](https://raw.githubusercontent.com/stormstina/stormstina/main/star-wars-trivia.png)  
 -->
 
-#### Star Wars Trivia
-- Object Oriented assignment
-- [View Trivia application](https://stormstina.github.io/star-wars-trivia/)
-- [View code](https://github.com/stormstina/star-wars-triviav)
+#### Star Wars Trivia - Object Oriented assignment
+> [View Trivia application](https://stormstina.github.io/star-wars-trivia/)
 
-#### Tamagotchi
-- Object Oriented assignment
-- [View Tamagotchi application](https://stormstina.github.io/tamagotchi/)
-- [View code](https://github.com/stormstina/tamagotchi)
+> [View code](https://github.com/stormstina/star-wars-triviav)
+
+#### Tamagotchi - Object Oriented assignment
+> [View Tamagotchi application](https://stormstina.github.io/tamagotchi/)
+
+
+> [View code](https://github.com/stormstina/tamagotchi)
 
 #### Shopping List - Group Project
-- [View Shopping List application](https://stormstina.github.io/my-lists/index.html)
-- [View code](https://stormstina.github.io/my-lists/index.html)
+> [View Shopping List application](https://stormstina.github.io/my-lists/index.html)
+
+
+> [View code](https://stormstina.github.io/my-lists/index.html)
 
 #### Real-estate-Website - HTML / CSS company website assignement
-- [View Real Estate website](https://stormstina.github.io/Real-Estate-website/)
-- [View code](https://github.com/stormstina/Real-Estate-website)
+> [View Real Estate website](https://stormstina.github.io/Real-Estate-website/)
+
+
+> [View code](https://github.com/stormstina/Real-Estate-website)
 
 #### Quiz - 1:st JS assignement
-- [View Quiz application](https://stormstina.github.io/Ankademin-quiz/)
-- [View code](https://github.com/stormstina/Ankademin-quiz)
+> [View Quiz application](https://stormstina.github.io/Ankademin-quiz/)
+
+
+> [View code](https://github.com/stormstina/Ankademin-quiz)
 
 ### Tech Stack *(as of now)*
 <div align="center">
