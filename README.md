@@ -1,6 +1,6 @@
+<div align="center">
+
 ## Hi! 👋 I'm Stina!
-
-
 
 ### ✨ Projects
 <!--
@@ -23,11 +23,13 @@
 
 #### Star Wars Trivia
 - Object Oriented assignment
-- [View Trivia application](https://stormstina.github.io/Ankademin-quiz/)
+- [View Trivia application](https://stormstina.github.io/star-wars-trivia/)
+- [View code](https://github.com/stormstina/star-wars-triviav)
 
 #### Tamagotchi
 - Object Oriented assignment
-- [View Tamagotchi application](https://stormstina.github.io/Ankademin-quiz/)
+- [View Tamagotchi application](https://stormstina.github.io/tamagotchi/)
+- [View code](https://github.com/stormstina/tamagotchi)
 
 #### Shopping List - Group Project
 - [View Shopping List application](https://stormstina.github.io/my-lists/index.html)
@@ -37,22 +39,11 @@
 - [View Real Estate website](https://stormstina.github.io/Real-Estate-website/)
 - [View code](https://github.com/stormstina/Real-Estate-website)
 
-
-
 #### Quiz - 1:st JS assignement
-- g
--[View Quiz application](https://stormstina.github.io/Ankademin-quiz/)
--[View code](https://github.com/stormstina/Real-Estate-website)
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- [View Quiz application](https://stormstina.github.io/Ankademin-quiz/)
+- [View code](https://github.com/stormstina/Ankademin-quiz)
 
 ### Tech Stack *(as of now)*
-<div align="center">
     
 <img  src="JsLogo.svg" alt="JavaScript Logo" width="50" height="50"/> &nbsp;
 <img  src="HtmlLogo.svg" alt="HTML Logo" width="50" height="50"/> &nbsp;
@@ -65,7 +56,3 @@
 <img  src="FigmaLogo.svg" alt="Figma Logo" height="50"/> &nbsp;
  
 </div>
-
-
-### Contact
-
