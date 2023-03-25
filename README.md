@@ -29,7 +29,7 @@
 
 > [View code](https://github.com/stormstina/Ankademin-quiz)
 
-## Tech Stack *(as of now)*
+## 🧰 Tech Stack *(as of now)*
 <div align="center">
 
 <img  src="JsLogo.svg" alt="JavaScript Logo" width="50" height="50"/> &nbsp;
