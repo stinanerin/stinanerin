@@ -10,27 +10,31 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 ## ✨ Projects - In chronological order
 
 ### Star Wars Trivia - Object Oriented assignment
+![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; ![](bootstrap.svg)
 > [View Trivia application](https://stormstina.github.io/star-wars-trivia/)
 
 > [View code](https://github.com/stormstina/star-wars-trivia)
 
 ### Tamagotchi - Object Oriented assignment
+![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; 
 > [View Tamagotchi application](https://stormstina.github.io/tamagotchi/)
 
 > [View code](https://github.com/stormstina/tamagotchi)
 
 ### Shopping List - Group Project
+![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; ![](bootstrap.svg)
 > [View Shopping List application](https://stormstina.github.io/my-lists/index.html)
 
 > [View code](https://github.com/stormstina/my-lists)
 
 ### Real-estate-Website - Group Project
-![](js.svg) ![](bulma.svg)
+![](js.svg)&nbsp;  ![](html.svg)&nbsp;  ![](css.svg)&nbsp;  ![](sass.svg)&nbsp;  ![](bulma.svg)
 > [View Real Estate website](https://stormstina.github.io/Real-Estate-website/)
 
 > [View code](https://github.com/stormstina/Real-Estate-website)
 
 ### Quiz
+![](js.svg)&nbsp;  ![](html.svg)&nbsp;  ![](css.svg)&nbsp; 
 > [View Quiz application](https://stormstina.github.io/Ankademin-quiz/)
 
 > [View code](https://github.com/stormstina/Ankademin-quiz)
