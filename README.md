@@ -2,7 +2,7 @@
 # Hi! 👋 I'm Stina!
 
 - Frontend Developer
-- Todo List Enthusiast
+- To-do List Enthusiast
 - Lover of anything 🍋 
 
 You will either find me learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of *30 minuter* with ogle eyes, an open mouth and popcorn in my hand!
