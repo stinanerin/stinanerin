@@ -1,7 +1,7 @@
 
 # Hi! 👋 I'm Stina! - Frontend Developer
 
-You will either find my learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of *30 minuter* with an open mouth and popcorn in my hand!
+You will either find me learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of *30 minuter* with an open mouth and popcorn in my hand!
 
 ## ✨ Projects
 
