@@ -1,7 +1,7 @@
 
 # Hi! 👋 I'm Stina! - Frontend Developer
 
-You will either find me learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of *30 minuter* with an open mouth and popcorn in my hand!
+You will either find me learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of *30 minuter* with ogle eyes, an open mouth and popcorn in my hand!
 
 ## ✨ Projects
 
@@ -33,14 +33,14 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 ## 🧰 Tech Stack *(as of now)*
 <div align="center">
 
-<img  src="JsLogo.svg" alt="JavaScript Logo" width="50" height="50"/> &nbsp;
-<img  src="HtmlLogo.svg" alt="HTML Logo" width="50" height="50"/> &nbsp;
-<img  src="CssLogo.svg" alt="CSS" width="50" height="50"/>
-<img  src="BootstrapLogo.svg" alt="Bootstrap Logo" height="50"/> &nbsp;
-<img  src="BulmaLogo.svg" alt="Bulma Logo" height="50"/> &nbsp;
-<img  src="SassLogo.svg" alt="Sass Logo" height="50"/> &nbsp;
-<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github Logo"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
-<img  src="FigmaLogo.svg" alt="Figma Logo" height="50"/> &nbsp;
+  <img  src="JsLogo.svg" alt="JavaScript Logo" width="50" height="50"/> &nbsp;
+  <img  src="HtmlLogo.svg" alt="HTML Logo" width="50" height="50"/> &nbsp;
+  <img  src="CssLogo.svg" alt="CSS" width="50" height="50"/>
+  <img  src="BootstrapLogo.svg" alt="Bootstrap Logo" height="50"/> &nbsp;
+  <img  src="BulmaLogo.svg" alt="Bulma Logo" height="50"/> &nbsp;
+  <img  src="SassLogo.svg" alt="Sass Logo" height="50"/> &nbsp;
+  <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github Logo"/> &nbsp;
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
+  <img  src="FigmaLogo.svg" alt="Figma Logo" height="50"/> &nbsp;
  
 </div>
