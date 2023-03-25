@@ -1,6 +1,7 @@
 
 # Hi! 👋 I'm Stina! - Frontend Developer
 
+You will either find my learning javascript or curating the perfect spotify playlist - it's a toss up between the two
 
 ## ✨ Projects
 
