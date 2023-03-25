@@ -25,6 +25,7 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 > [View code](https://github.com/stormstina/my-lists)
 
 ### Real-estate-Website - Group Project
+![](js.svg) ![](bulma.svg)
 > [View Real Estate website](https://stormstina.github.io/Real-Estate-website/)
 
 > [View code](https://github.com/stormstina/Real-Estate-website)
