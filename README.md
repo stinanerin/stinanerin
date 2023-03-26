@@ -3,7 +3,7 @@
 
 You will either find me learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of *30 minuter* with ogle eyes, an open mouth and popcorn in hand.
 
-I am currently woring on a (laundry booking system)[https://github.com/stormstina/laundry] 
+I am currently woring on a [laundry booking system](https://github.com/stormstina/laundry)
 
 ## ✨ Projects - In chronological order
 
