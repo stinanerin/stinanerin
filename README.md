@@ -21,7 +21,7 @@ I'm currently working on my own project - [a laundry room booking system!](https
 > [View code](https://github.com/stormstina/tamagotchi)
 
 ### Shopping List - Group Project
-![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; ![](bootstrap.svg)
+![](api.svg)&nbsp; ![](local-storage.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; ![](bootstrap.svg)
 > [View Shopping List application](https://stormstina.github.io/my-lists/index.html)
 
 > [View code](https://github.com/stormstina/my-lists)
