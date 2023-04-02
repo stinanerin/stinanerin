@@ -4,7 +4,10 @@
 You will either find me learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of *30 minuter* with ogle eyes, an open mouth and popcorn in hand.
 
 
-I'm currently working on my own project - [a laundry room booking system!](https://github.com/stormstina/laundry)
+I'm currently working on my own side project - a laundry room booking system!
+> [View code](https://github.com/stormstina/laundry)
+> [View application](https://stormstina.github.io/laundry/)
+
 
 ## ✨ Projects - In chronological order
 
