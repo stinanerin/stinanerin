@@ -7,11 +7,11 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 I'm currently working on my own side project - a laundry room booking system!
 > [View code](https://github.com/stormstina/laundry)
 
-
 > [View application](https://stormstina.github.io/laundry/)
 
 
 ## ✨ School projects
+Make sure to read the group projects readme-file, for clarification of my responsibilities within the project.  
 
 ### Star Wars Trivia - Object Oriented assignment
 ![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; ![](bootstrap.svg)
