@@ -11,7 +11,7 @@ I'm currently working on my own side project - a laundry room booking system!
 > [View application](https://stormstina.github.io/laundry/)
 
 
-## ✨ Projects - In chronological order
+## ✨ School projects
 
 ### Star Wars Trivia - Object Oriented assignment
 ![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; ![](bootstrap.svg)
