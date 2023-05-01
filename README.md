@@ -56,5 +56,6 @@ Make sure to read the group projects readme-file, for clarification of my respon
   <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github Logo"/> &nbsp;
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
   <img  src="FigmaLogo.svg" alt="Figma Logo" height="50"/> &nbsp;
+  <img  src="strapi.png" alt="Figma Logo" height="50"/> &nbsp;
  
 </div>
