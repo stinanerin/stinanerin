@@ -14,7 +14,9 @@ I'm currently working on my own side project, a laundry room booking system as w
 ## ✨ School projects
 Make sure to read the group projects readme-file, for clarification of my responsibilities within the project.  
 
-### Simple bank - javascript as a backend language assignment
+### Bank application
+Simple bank application built with Node.js, MongoDB, and Express.js. The application allows users to register, create accounts, and perform banking operations. The backend server is implemented using Express.js and MongoDB is used as the database to store user information and account details.
+
 ![](mongoDB.svg)&nbsp; ![](node.js.svg)&nbsp; ![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; 
 > [View code](https://github.com/stormstina/mongoDB-bank)
 
