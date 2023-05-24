@@ -15,10 +15,10 @@ I'm currently working on my own side project, a laundry room booking system as w
 Make sure to read the group projects readme-file, for clarification of my responsibilities within the project.  
 
 ### Bank application
-Simple bank application built with Node.js, MongoDB, and Express.js. The application allows users to register, create accounts, and perform banking operations. The backend server is implemented using Express.js and MongoDB is used as the database to store user information and account details.
+Banking application using Node.js, Express.js, and MongoDB for user registration, account creation, and banking operations.
 
 ![](mongoDB.svg)&nbsp; ![](node.js.svg)&nbsp; ![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; 
-> [View code](https://github.com/stormstina/mongoDB-bank)
+> [View project](https://github.com/stormstina/mongoDB-bank)
 
 
 ### Star Wars Trivia - Object Oriented assignment
