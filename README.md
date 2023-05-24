@@ -15,7 +15,7 @@ I'm currently working on my own side project, a laundry room booking system as w
 Make sure to read the group projects readme-file, for clarification of my responsibilities within the project.  
 
 ### Simple bank
-![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; 
+![](mongoDB.svg)&nbsp; ![](node.js.svg)&nbsp; ![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; 
 > [View code](https://github.com/stormstina/mongoDB-bank)
 
 
