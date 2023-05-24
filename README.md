@@ -10,12 +10,11 @@ I'm currently working on my own side project, a laundry room booking system as w
 > [View code](https://github.com/stormstina/laundry)
 
 
-
 ## ✨ School projects
 Make sure to read the group projects readme-file, for clarification of my responsibilities within the project.  
 
 ### Bank application
-Banking application using Node.js, Express.js, and MongoDB for user registration, account creation, and banking operations.
+Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-side powered by Node.js, Express.js, and MongoDB for user registration, account creation, and banking operations.
 
 ![](mongoDB.svg)&nbsp; ![](node.js.svg)&nbsp; ![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; 
 > [View project](https://github.com/stormstina/mongoDB-bank)
