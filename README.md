@@ -16,7 +16,7 @@ Make sure to read the group projects readme-file, for clarification of my respon
 ### Bank application
 Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-side powered by Node.js, Express.js, and MongoDB for user registration, account creation, and banking operations.
 
-![](mongoDB.svg)&nbsp; ![](node.js.svg)&nbsp; ![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; 
+![](mongoDB.svg)&nbsp; ![](node.js.svg)&nbsp; ![](express.js.svg)&nbsp; ![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; 
 
 > [View bank application](https://express-bank.herokuapp.com/)
 
