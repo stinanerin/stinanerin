@@ -1,5 +1,5 @@
 
-# Hi! 👋 I'm Stina - Frontend Developer
+# Hej! 👋 I'm Stina - Frontend Developer
 
 You will either find me learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of *30 minuter* with ogle eyes, an open mouth and popcorn in hand.
 
