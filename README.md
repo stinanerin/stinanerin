@@ -8,7 +8,7 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 ## 💻 Own projects
 ### Laundry room booking system
 
-I'm currently working on my own side project, a laundry room booking system. I started working out a solution using an already existing list MongoDB database with a REST API, but after learning node.js I have migrated it to my own custom backend solution. However, the client application is not up and spinning just yet.
+I'm currently working on my own side project, a laundry room booking system. I started working out a solution using an already existing list MongoDB database with a REST API, but after learning node.js I have migrated it to my own custom backend solution.
 > [View custom API code](https://github.com/stormstina/booking-system-api)
 
 > [View laundry room booking application](https://laundry-room-booking-system-de2d4ba71aff.herokuapp.com)
