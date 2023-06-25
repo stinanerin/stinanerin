@@ -4,11 +4,20 @@
 You will either find me learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of *30 minuter* with ogle eyes, an open mouth and popcorn in hand.
 
 
-I'm currently working on my own side project, a laundry room booking system as well as a school project for my interaction with CMS course.
-> [View laundry room booking application](https://stormstina.github.io/laundry/)
 
-> [View code](https://github.com/stormstina/laundry)
+## Own projects
 
+
+I'm currently working on my own side project, a laundry room booking system. I started working out a solution using an already existing list MongoDB database with a REST API, but after learning node.js I have migrated it to my own custom backend solution. However, the client application is not up and spinning just yet.
+> [View custom API](https://github.com/stormstina/booking-system-api)
+
+> [View client application code](https://github.com/stormstina/laundry-room-booking-system)
+
+&nbsp; 
+
+> [View old laundry room booking application](https://stormstina.github.io/laundry/)
+
+> [View old code](https://github.com/stormstina/laundry)
 
 ## ✨ School projects
 Make sure to read the group projects readme-file, for clarification of my responsibilities within the project.  
@@ -16,7 +25,14 @@ Make sure to read the group projects readme-file, for clarification of my respon
 ### Bank application
 Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-side powered by Node.js, Express.js, and MongoDB for user registration, account creation, and banking operations.
 
-![](mongoDB.svg)&nbsp; ![](node.js.svg)&nbsp; ![](express.js.svg)&nbsp; ![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; 
+<img  src="./icons/api.svg" alt="API" width="10" height="10"/>  Api &nbsp;
+<img  src="./icons/mongo.svg" alt="MongoDB" width="10" height="10"/>  MongoDB &nbsp;
+<img  src="./icons/node.svg" alt="node.js" width="10" height="10"/>  Node.js &nbsp;
+<img  src="./icons/express.svg" alt="express.js" width="10" height="10"/>  Express.js &nbsp;
+<img  src="./icons/js.svg" alt="JavaScript" width="10" height="10"/>  JavaScript &nbsp;
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/>  HTML &nbsp;
+<img  src="./icons/css.svg" alt="CSS" width="10" height="10"/>  CSS &nbsp;
+<img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/>  Sass &nbsp;  
 
 > [View bank application](https://express-bank.herokuapp.com/)
 
@@ -24,31 +40,56 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
 
 
 ### Star Wars Trivia - Object Oriented assignment
-![](api.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; ![](bootstrap.svg)
+<img  src="./icons/api.svg" alt="API" width="10" height="10"/>  Api &nbsp;
+<img  src="./icons/js.svg" alt="JavaScript" width="10" height="10"/>  JavaScript &nbsp; 
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/>  HTML &nbsp; 
+<img  src="./icons/css.svg" alt="CSS" width="10" height="10"/>  CSS &nbsp; 
+<img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/>  Sass &nbsp; 
+<img  src="./icons/bootstrap.svg" alt="Bootstrap" width="10" height="10"/>  Bootstrap &nbsp; 
+
 > [View Trivia application](https://stormstina.github.io/star-wars-trivia/)
 
 > [View code](https://github.com/stormstina/star-wars-trivia)
 
 ### Tamagotchi - Object Oriented assignment
-![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; 
+<img  src="./icons/js.svg" alt="JavaScript" width="10" height="10"/>  JavaScript &nbsp; 
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/>  HTML &nbsp; 
+<img  src="./icons/css.svg" alt="CSS" width="10" height="10"/>  CSS &nbsp; 
+<img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/>  Sass &nbsp; 
+
 > [View Tamagotchi application](https://stormstina.github.io/tamagotchi/)
 
 > [View code](https://github.com/stormstina/tamagotchi)
 
 ### Shopping List - Group Project
-![](api.svg)&nbsp; ![](local-storage.svg)&nbsp; ![](js.svg)&nbsp; ![](html.svg)&nbsp; ![](css.svg)&nbsp; ![](sass.svg)&nbsp; ![](bootstrap.svg)
+<img  src="./icons/api.svg" alt="API" width="10" height="10"/>  Api &nbsp;
+<img  src="./icons/local.svg" alt="Local Storage" width="10" height="10"/>  Local Storage &nbsp;
+<img  src="./icons/js.svg" alt="JavaScript" width="10" height="10"/>  JavaScript &nbsp; 
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/>  HTML &nbsp; 
+<img  src="./icons/css.svg" alt="CSS" width="10" height="10"/>  CSS &nbsp; 
+<img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/>  Sass &nbsp; 
+<img  src="./icons/bootstrap.svg" alt="Bootstrap" width="10" height="10"/>  Bootstrap &nbsp; 
+
 > [View Shopping List application](https://stormstina.github.io/my-lists/index.html)
 
 > [View code](https://github.com/stormstina/my-lists)
 
 ### Real-estate-Website - Group Project
-![](js.svg)&nbsp;  ![](html.svg)&nbsp;  ![](css.svg)&nbsp;  ![](sass.svg)&nbsp;  ![](bulma.svg)
+<img  src="./icons/js.svg" alt="JavaScript" width="10" height="10"/>  JavaScript &nbsp; 
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/>  HTML &nbsp; 
+<img  src="./icons/css.svg" alt="CSS" width="10" height="10"/>  CSS &nbsp; 
+<img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/>  Sass &nbsp; 
+<img  src="./icons/bulma.svg" alt="Bulma" width="10" height="10"/>  Bulma &nbsp; 
+
 > [View Real Estate website](https://stormstina.github.io/Real-Estate-website/)
 
 > [View code](https://github.com/stormstina/Real-Estate-website)
 
 ### Quiz
-![](js.svg)&nbsp;  ![](html.svg)&nbsp;  ![](css.svg)&nbsp; 
+<img  src="./icons/js.svg" alt="JavaScript" width="10" height="10"/>  JavaScript &nbsp; 
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/>  HTML &nbsp; 
+<img  src="./icons/css.svg" alt="CSS" width="10" height="10"/>  CSS &nbsp; 
+
 > [View Quiz application](https://stormstina.github.io/Ankademin-quiz/)
 
 > [View code](https://github.com/stormstina/Ankademin-quiz)
@@ -56,19 +97,19 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
 ## 🧰 Tech Stack *(as of now)*
 <div align="center">
 
-  <img  src="JsLogo.svg" alt="JavaScript Logo" width="50" height="50"/> &nbsp;
-  <img  src="HtmlLogo.svg" alt="HTML Logo" width="50" height="50"/> &nbsp;
-  <img  src="CssLogo.svg" alt="CSS" width="50" height="50"/>
-  <img  src="BootstrapLogo.svg" alt="Bootstrap Logo" height="50"/> &nbsp;
-  <img  src="BulmaLogo.svg" alt="Bulma Logo" height="50"/> &nbsp;
-  <img  src="SassLogo.svg" alt="Sass Logo" height="50"/> &nbsp;
-  <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github Logo"/> &nbsp;
+  <img  src="./logos/JsLogo.svg" alt="JavaScript Logo" width="50" height="50"/> &nbsp;
+  <img  src="./logos/HtmlLogo.svg" alt="HTML Logo" width="50" height="50"/> &nbsp;
+  <img  src="./logos/CssLogo.svg" alt="CSS Logo" width="50" height="50"/>
+  <img  src="./logos/BootstrapLogo.svg" alt="Bootstrap Logo" height="50"/> &nbsp;
+  <img  src="./logos/BulmaLogo.svg" alt="Bulma Logo" height="50"/> &nbsp;
+  <img  src="./logos/SassLogo.svg" alt="Sass Logo" height="50"/> &nbsp;
+  
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
-  <img  src="FigmaLogo.svg" alt="Figma Logo" height="50"/> &nbsp;
-  <img  src="axios.png" alt="Figma Logo" height="50"/> &nbsp;
-  <img  src="strapi.png" alt="Figma Logo" height="50"/> &nbsp;
-  <img  src="mongodb.png" alt="Figma Logo" height="50"/> &nbsp;
-  <img  src="nodejs.png" alt="Figma Logo" height="50"/> &nbsp;
+  <img  src="./logos/FigmaLogo.svg" alt="Figma Logo" height="50"/> &nbsp;
+  <img  src="./logos/axios.png" alt="Axios Logo" height="50"/> &nbsp;
+  <img  src="./logos/strapi.png" alt="Strapi Logo" height="50"/> &nbsp;
+  <img  src="./logos/mongo.png" alt="MongoDB Logo" height="50"/> &nbsp;
+  <img  src="./logos/nodejs.png" alt="Node.js Logo" height="50"/> &nbsp;
 
 
  
