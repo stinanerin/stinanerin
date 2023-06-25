@@ -5,8 +5,8 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 
 
 
-## Own projects
-
+## 💻 Own projects
+### Laundry room booking system
 
 I'm currently working on my own side project, a laundry room booking system. I started working out a solution using an already existing list MongoDB database with a REST API, but after learning node.js I have migrated it to my own custom backend solution. However, the client application is not up and spinning just yet.
 > [View custom API](https://github.com/stormstina/booking-system-api)
@@ -19,7 +19,7 @@ I'm currently working on my own side project, a laundry room booking system. I s
 
 > [View old code](https://github.com/stormstina/laundry)
 
-## ✨ School projects
+## 📚 School projects
 Make sure to read the group projects readme-file, for clarification of my responsibilities within the project.  
 
 ### Bank application
@@ -94,7 +94,7 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
 
 > [View code](https://github.com/stormstina/Ankademin-quiz)
 
-## 🧰 Tech Stack *(as of now)*
+## 🛠️  Tech Stack 
 <div align="center">
 
   <img  src="./logos/JsLogo.svg" alt="JavaScript Logo" width="50" height="50"/> &nbsp;
