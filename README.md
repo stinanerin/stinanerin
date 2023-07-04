@@ -7,8 +7,7 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 
 ## 💻 Own projects
 ### Laundry room booking system
-
-I'm currently working on my own side project, a laundry room booking system. I started working out a solution using an already existing list MongoDB database with a REST API, but after learning node.js I have migrated it to my own custom backend solution.
+I started working out a solution using an already existing list MongoDB database with a REST API, but after learning node.js I have migrated it to my own backend solution.
 > [View API code](https://github.com/stormstina/booking-system-api)
 
 > [View laundry room booking application](https://laundry-room-booking-system-de2d4ba71aff.herokuapp.com)
@@ -105,7 +104,6 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
   <img  src="./logos/BootstrapLogo.svg" alt="Bootstrap Logo" height="50"/> &nbsp;
   <img  src="./logos/BulmaLogo.svg" alt="Bulma Logo" height="50"/> &nbsp;
   <img  src="./logos/SassLogo.svg" alt="Sass Logo" height="50"/> &nbsp;
-  
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
   <img  src="./logos/FigmaLogo.svg" alt="Figma Logo" height="50"/> &nbsp;
   <img  src="./logos/axios.png" alt="Axios Logo" height="50"/> &nbsp;
@@ -113,6 +111,4 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
   <img  src="./logos/mongo.png" alt="MongoDB Logo" height="50"/> &nbsp;
   <img  src="./logos/nodejs.png" alt="Node.js Logo" height="50"/> &nbsp;
 
-
- 
 </div>
