@@ -8,6 +8,8 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 ## 💻 Own projects
 
 ### React weather app
+<img  src="./icons/react.svg" alt="React" width="10" height="10"/>  React &nbsp;
+<img  src="./icons/typescript.svg" alt="Typescript" width="10" height="10"/>  Typescript &nbsp;
 <img  src="./icons/api.svg" alt="API" width="10" height="10"/>  Api &nbsp;
 <img  src="./icons/html.svg" alt="HTML" width="10" height="10"/>  HTML &nbsp;
 <img  src="./icons/css.svg" alt="CSS" width="10" height="10"/>  CSS &nbsp;
@@ -129,5 +131,7 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
   <img  src="./logos/strapi.png" alt="Strapi Logo" height="50"/> &nbsp;
   <img  src="./logos/mongo.png" alt="MongoDB Logo" height="50"/> &nbsp;
   <img  src="./logos/nodejs.png" alt="Node.js Logo" height="50"/> &nbsp;
+  <img  src="./logos/React-icon.svg.png" alt="React" height="50"/> &nbsp;
+  <img  src="./logos/Typescript_logo.svg" alt="Typescript" height="50"/> &nbsp;
 
 </div>
