@@ -6,7 +6,31 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 
 
 ## 💻 Own projects
+
+### React weather app
+<img  src="./icons/api.svg" alt="API" width="10" height="10"/>  Api &nbsp;
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/>  HTML &nbsp;
+<img  src="./icons/css.svg" alt="CSS" width="10" height="10"/>  CSS &nbsp;
+<img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/>  Sass &nbsp; 
+
+I am currently learing react and this is my work in progress test bunny project.
+
+> [View application](https://stormstina-react-weather-app.netlify.app/)
+
+> [View code](https://github.com/stormstina/weather-app)
+
+
 ### Laundry room booking system
+
+<img  src="./icons/mongo.svg" alt="MongoDB" width="10" height="10"/>  MongoDB &nbsp;
+<img  src="./icons/node.svg" alt="node.js" width="10" height="10"/>  Node.js &nbsp;
+<img  src="./icons/api.svg" alt="API" width="10" height="10"/>  Api &nbsp;
+<img  src="./icons/express.svg" alt="express.js" width="10" height="10"/>  Express.js &nbsp;
+<img  src="./icons/js.svg" alt="JavaScript" width="10" height="10"/>  JavaScript &nbsp;
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/>  HTML &nbsp;
+<img  src="./icons/css.svg" alt="CSS" width="10" height="10"/>  CSS &nbsp;
+<img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/>  Sass &nbsp; 
+
 I started working out a solution using an already existing list MongoDB database with a REST API, but after learning node.js I have migrated it to my own backend solution.
 > [View API code](https://github.com/stormstina/booking-system-api)
 
@@ -14,11 +38,6 @@ I started working out a solution using an already existing list MongoDB database
 
 > [View client application code](https://github.com/stormstina/laundry-room-booking-system)
 
-&nbsp; 
-
-> [View old laundry room booking application](https://stormstina.github.io/laundry/)
-
-> [View old code](https://github.com/stormstina/laundry)
 
 ## 📚 School projects
 Make sure to read the group projects readme-file, for clarification of my responsibilities within the project.  
