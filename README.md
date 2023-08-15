@@ -7,7 +7,7 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 
 ## 💻 Own projects
 
-### React weather app
+### Weather app
 <img  src="./icons/react.svg" alt="React" width="10" height="10"/>  React &nbsp;
 <img  src="./icons/typescript.svg" alt="Typescript" width="10" height="10"/>  Typescript &nbsp;
 <img  src="./icons/api.svg" alt="API" width="10" height="10"/>  Api &nbsp;
