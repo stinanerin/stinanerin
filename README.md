@@ -15,7 +15,7 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 <img  src="./icons/css.svg" alt="CSS" width="10" height="10"/>  CSS &nbsp;
 <img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/>  Sass &nbsp; 
 
-I am currently learing react and this is my work in progress test bunny project.
+I am currently learing React, and this is my work in progress test bunny project.
 
 > [View application](https://stormstina-react-weather-app.netlify.app/)
 
