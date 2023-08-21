@@ -3,8 +3,7 @@
 
 You will either find me learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of *30 minuter* with ogle eyes, an open mouth and popcorn in hand.
 
-
-
+  > [View portfolio](https://stina-nerin.netlify.app/)
 
 
 ## 💻 Own projects
