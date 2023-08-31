@@ -48,6 +48,7 @@ Make sure to read the group projects readme-file, for clarification of my respon
 
 <img  src="./icons/react.svg" alt="React" width="10" height="10"/> React &nbsp;
 <img  src="./icons/tailwind.svg" alt="Tailwind" width="10" height="10"/> Tailwind &nbsp;
+
 A simple React Todo App that lets users manage tasks. The app comes with functionalities to add new todos, edit existing ones, and delete tasks. Tailwind CSS is used for UI.
 
 > [View application](https://stormstina-todo-list.netlify.app/)
@@ -55,8 +56,6 @@ A simple React Todo App that lets users manage tasks. The app comes with functio
 > [View code](https://github.com/stormstina/todo-list)
 
 ### Bank application
-
-Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-side powered by Node.js, Express.js, and MongoDB for user registration, account creation, and banking operations.
 
 <img  src="./icons/api.svg" alt="API" width="10" height="10"/> Api &nbsp;
 <img  src="./icons/mongo.svg" alt="MongoDB" width="10" height="10"/> MongoDB &nbsp;
@@ -66,6 +65,8 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
 <img  src="./icons/html.svg" alt="HTML" width="10" height="10"/> HTML &nbsp;
 <img  src="./icons/css.svg" alt="CSS" width="10" height="10"/> CSS &nbsp;
 <img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/> Sass &nbsp;
+
+Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-side powered by Node.js, Express.js, and MongoDB for user registration, account creation, and banking operations.
 
 > [View bank application](https://express-bank.herokuapp.com/)
 
