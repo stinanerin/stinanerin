@@ -51,7 +51,6 @@ Make sure to read the group projects readme-file, for clarification of my respon
 
 A simple React Todo App that lets users manage tasks. The app comes with functionalities to add new todos, edit existing ones, and delete tasks. Tailwind CSS is used for UI.
 
-> [View application](https://stormstina-todo-list.netlify.app/)
 
 > [View code](https://github.com/stormstina/todo-list)
 
