@@ -25,6 +25,9 @@ I am currently learing React, and this is my work in progress test bunny project
 
 <img  src="./icons/react.svg" alt="React" width="10" height="10"/> React &nbsp;
 <img  src="./icons/tailwind.svg" alt="Tailwind" width="10" height="10"/> Tailwind &nbsp;
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/> HTML &nbsp;
+<img  src="./icons/local.svg" alt="Local Storage" width="10" height="10"/> Local Storage &nbsp;
+
 
 A simple React Todo App that lets users manage tasks. The app comes with functionalities to add new todos, edit existing ones, and delete tasks. Tailwind CSS is used for UI.
 
