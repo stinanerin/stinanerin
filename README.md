@@ -21,6 +21,17 @@ I am currently learing React, and this is my work in progress test bunny project
 
 > [View code](https://github.com/stormstina/weather-app)
 
+### Todo app
+
+<img  src="./icons/react.svg" alt="React" width="10" height="10"/> React &nbsp;
+<img  src="./icons/tailwind.svg" alt="Tailwind" width="10" height="10"/> Tailwind &nbsp;
+
+A simple React Todo App that lets users manage tasks. The app comes with functionalities to add new todos, edit existing ones, and delete tasks. Tailwind CSS is used for UI.
+
+> [View application](https://stormstina-todo-list.netlify.app/)
+
+> [View code](https://github.com/stormstina/todo-list)
+
 ### Laundry room booking system
 
 <img  src="./icons/mongo.svg" alt="MongoDB" width="10" height="10"/> MongoDB &nbsp;
@@ -43,17 +54,6 @@ I started working out a solution using an already existing list MongoDB database
 ## 📚 School projects
 
 Make sure to read the group projects readme-file, for clarification of my responsibilities within the project.
-
-### Todo app
-
-<img  src="./icons/react.svg" alt="React" width="10" height="10"/> React &nbsp;
-<img  src="./icons/tailwind.svg" alt="Tailwind" width="10" height="10"/> Tailwind &nbsp;
-
-A simple React Todo App that lets users manage tasks. The app comes with functionalities to add new todos, edit existing ones, and delete tasks. Tailwind CSS is used for UI.
-
-> [View application](https://stormstina-todo-list.netlify.app/)
-
-> [View code](https://github.com/stormstina/todo-list)
 
 ### Bank application
 
