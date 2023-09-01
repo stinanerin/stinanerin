@@ -135,6 +135,11 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
 
 <div align="center">
 
+<img  src="./logos/React-icon.svg.png" alt="React" height="50"/> &nbsp;
+<img  src="./logos/Typescript_logo.svg" alt="Typescript" height="50"/> &nbsp;
+<img  src="./logos/angular.png" alt="Angular" height="50"/> &nbsp;
+<img  src="./logos/tailwind.png" alt="Tailwind" height="50"/> &nbsp;
+<img  src="./logos/redux.svg" alt="Redux" height="50"/> &nbsp;
 <img  src="./logos/JsLogo.svg" alt="JavaScript Logo" width="50" height="50"/> &nbsp;
 <img  src="./logos/HtmlLogo.svg" alt="HTML Logo" width="50" height="50"/> &nbsp;
 <img  src="./logos/CssLogo.svg" alt="CSS Logo" width="50" height="50"/>
@@ -147,7 +152,5 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
 <img  src="./logos/strapi.png" alt="Strapi Logo" height="50"/> &nbsp;
 <img  src="./logos/mongo.png" alt="MongoDB Logo" height="50"/> &nbsp;
 <img  src="./logos/nodejs.png" alt="Node.js Logo" height="50"/> &nbsp;
-<img  src="./logos/React-icon.svg.png" alt="React" height="50"/> &nbsp;
-<img  src="./logos/Typescript_logo.svg" alt="Typescript" height="50"/> &nbsp;
 
 </div>
