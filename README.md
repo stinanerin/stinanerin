@@ -58,6 +58,21 @@ I started working out a solution using an already existing list MongoDB database
 
 Make sure to read the group projects readme-file, for clarification of my responsibilities within the project.
 
+### Rick & Morty - Character directory
+
+<img  src="./icons/react.svg" alt="React" width="10" height="10"/> React &nbsp;
+<img  src="./icons/tailwind.svg" alt="Tailwind" width="10" height="10"/> Tailwind &nbsp;
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/> HTML &nbsp;
+<img  src="./icons/api.svg" alt="Api" width="10" height="10"/> Api &nbsp;
+
+
+A simple react web application that use the Rick and Morty API to showcase characters from the show. Users can search for characters by name and apply filters for gender, species and status. Dynamic pagination for easy navigation. It's styled using Tailwind CSS.
+
+> [View application](https://stormstina-rick-and-morty.netlify.app/)
+
+> [View code](https://github.com/stormstina/rick-and-morty)
+
+
 ### Bank application
 
 <img  src="./icons/api.svg" alt="API" width="10" height="10"/> Api &nbsp;
