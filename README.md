@@ -46,7 +46,7 @@ A simple React Todo App that lets users manage tasks. The app comes with functio
 <img  src="./icons/css.svg" alt="CSS" width="10" height="10"/> CSS &nbsp;
 <img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/> Sass &nbsp;
 
-I started working out a solution using an already existing list MongoDB database with a REST API, but after learning node.js I have migrated it to my own backend solution.
+I started working out a solution using an already existing list MongoDB database with a REST API, but after learning node.js I have migrated it to my own backend solution. The application offers user registration(with hashed passwords), login, and the making and canceling of one-time bookings. Expired bookings are automatically removed from the system. 
 
 > [View API code](https://github.com/stormstina/booking-system-api)
 
