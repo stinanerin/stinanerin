@@ -21,19 +21,7 @@ I am currently learing React, and this is my work in progress test bunny project
 
 > [View code](https://github.com/stormstina/weather-app)
 
-### Todo app
 
-<img  src="./icons/react.svg" alt="React" width="10" height="10"/> React &nbsp;
-<img  src="./icons/tailwind.svg" alt="Tailwind" width="10" height="10"/> Tailwind &nbsp;
-<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/> HTML &nbsp;
-<img  src="./icons/local.svg" alt="Local Storage" width="10" height="10"/> Local Storage &nbsp;
-
-
-A simple React Todo App that lets users manage tasks. The app comes with functionalities to add new todos, edit existing ones, and delete tasks. Tailwind CSS is used for UI.
-
-> [View application](https://stormstina-todo-list.netlify.app/)
-
-> [View code](https://github.com/stormstina/todo-list)
 
 ### Laundry room booking system
 
@@ -72,6 +60,19 @@ A simple react web application that use the Rick and Morty API to showcase chara
 
 > [View code](https://github.com/stormstina/rick-and-morty)
 
+### Todo app
+
+<img  src="./icons/react.svg" alt="React" width="10" height="10"/> React &nbsp;
+<img  src="./icons/tailwind.svg" alt="Tailwind" width="10" height="10"/> Tailwind &nbsp;
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/> HTML &nbsp;
+<img  src="./icons/local.svg" alt="Local Storage" width="10" height="10"/> Local Storage &nbsp;
+
+
+A simple React Todo App that lets users manage tasks. The app comes with functionalities to add new todos, edit existing ones, and delete tasks. Tailwind CSS is used for UI.
+
+> [View application](https://stormstina-todo-list.netlify.app/)
+
+> [View code](https://github.com/stormstina/todo-list)
 
 ### Bank application
 
