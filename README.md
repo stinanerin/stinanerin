@@ -49,6 +49,18 @@ I started working out a solution using an already existing list MongoDB database
 
 Make sure to read the group projects readme-file, for clarification of my responsibilities within the project.
 
+### E-Wallet
+
+<img  src="./icons/react.svg" alt="React" width="10" height="10"/> React &nbsp;
+<img  src="./icons/tailwind.svg" alt="Tailwind" width="10" height="10"/> Tailwind &nbsp;
+<img  src="./icons/html.svg" alt="HTML" width="10" height="10"/> HTML &nbsp;
+<img  src="./icons/api.svg" alt="Api" width="10" height="10"/> Api &nbsp;
+
+> [View application](https://mellow-cobbler-4c4f66.netlify.app/)
+
+> [View code](https://github.com/stormstina/e-wallet)
+
+
 ### Rick & Morty - Character directory
 
 <img  src="./icons/react.svg" alt="React" width="10" height="10"/> React &nbsp;
