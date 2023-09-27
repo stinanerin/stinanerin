@@ -51,6 +51,8 @@ Make sure to read the group projects readme-file, for clarification of my respon
 
 ### E-Wallet
 
+A credit card management app assignement. When launching the application, it initiates by retrieving a random user profile from the random user API and a credit card is generated and registered under the fetched user's name. This individual is designated as the primary account holder for all subsequently issued cards.
+
 <img  src="./icons/react.svg" alt="React" width="10" height="10"/> React &nbsp;
 <img  src="./icons/redux.svg" alt="redux" width="10" height="10"/> Redux &nbsp;
 <img  src="./icons/tailwind.svg" alt="Tailwind" width="10" height="10"/> Tailwind &nbsp;
