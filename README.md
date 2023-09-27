@@ -166,6 +166,11 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
 
 > [View code](https://github.com/stormstina/Ankademin-quiz)
 
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormstina)](https://github.com/stormstina/github-readme-stats)
+
+
 ## 🛠️ Tech Stack
 
 <div align="center">
