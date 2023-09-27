@@ -52,6 +52,7 @@ Make sure to read the group projects readme-file, for clarification of my respon
 ### E-Wallet
 
 <img  src="./icons/react.svg" alt="React" width="10" height="10"/> React &nbsp;
+<img  src="./icons/redux.svg" alt="redux" width="10" height="10"/> Redux &nbsp;
 <img  src="./icons/tailwind.svg" alt="Tailwind" width="10" height="10"/> Tailwind &nbsp;
 <img  src="./icons/html.svg" alt="HTML" width="10" height="10"/> HTML &nbsp;
 <img  src="./icons/api.svg" alt="Api" width="10" height="10"/> Api &nbsp;
