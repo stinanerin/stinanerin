@@ -2,7 +2,7 @@
 
 You will either find me learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of _30 minuter_ with ogle eyes, an open mouth and popcorn in hand.
 
- I am currently learning **React, Typescript & Next.js**
+ I am currently learning **React, Typescript** & **Next.js**
 
 > [View portfolio](https://stina-nerin.netlify.app/)
 
@@ -168,7 +168,7 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormstina)](https://github.com/stormstina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormstina&show_icons=true&locale=en&layout=compact)](https://github.com/stormstina/github-readme-stats)
 
 
 ## 🛠️ Tech Stack
