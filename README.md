@@ -2,7 +2,7 @@
 
 You will either find me learning JavaScript, curating the perfect Spotify playlist or watching the latest episode of _30 minuter_ with ogle eyes, an open mouth and popcorn in hand.
 
- I am currently learning **React, Typescript** & **Next.js**
+ I am currently learning **Angular, Typescript** & **Next.js**
 
 > [View portfolio](https://stina-nerin.netlify.app/)
 
