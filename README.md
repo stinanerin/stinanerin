@@ -37,8 +37,7 @@ My first foray into the world of React & Typescript. The Weather App offers real
 I started working out a solution using an already existing list MongoDB database with a REST API, but after learning node.js I have migrated it to my own backend solution. The application offers user registration(with hashed passwords), login, and the making and canceling of one-time bookings. Expired bookings are automatically removed from the system. 
 
 > [View API code](https://github.com/stormstina/booking-system-api)
-
-> [View laundry room booking application](https://laundry-room-booking-system-de2d4ba71aff.herokuapp.com)
+ <!-- > [View laundry room booking application](https://laundry-room-booking-system-de2d4ba71aff.herokuapp.com) -->
 
 > [View client application code](https://github.com/stormstina/laundry-room-booking-system)
 
@@ -102,7 +101,7 @@ A simple React Todo App that lets users manage tasks. The app comes with functio
 
 Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-side powered by Node.js, Express.js, and MongoDB for user registration, account creation, and banking operations.
 
-> [View bank application](https://express-bank.herokuapp.com/)
+ <!-- > [View bank application](https://express-bank.herokuapp.com/) -->
 
 > [View code](https://github.com/stormstina/mongoDB-bank)
 
