@@ -34,7 +34,7 @@ My first foray into the world of React & Typescript. The Weather App offers real
 <img  src="./icons/css.svg" alt="CSS" width="10" height="10"/> CSS &nbsp;
 <img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/> Sass &nbsp;
 
-I started working out a solution using an already existing list MongoDB database with a REST API, but after learning node.js I have migrated it to my own backend solution. The application offers user registration(with hashed passwords), login, and the making and canceling of one-time bookings. Expired bookings are automatically removed from the system. 
+Single-Page App (SPA) with client-side routing using vanilla JS classes. The application offers user registration(with hashed passwords), login, and the making and canceling of one-time bookings. Expired bookings are automatically removed from the system each hour. I started working out a solution using an already existing list MongoDB database with a REST API(with many unnecessary workarounds), but after learning node.js I migrated it to my own backend solution.
 
 > [View API code](https://github.com/stormstina/booking-system-api)
  <!-- > [View laundry room booking application](https://laundry-room-booking-system-de2d4ba71aff.herokuapp.com) -->
