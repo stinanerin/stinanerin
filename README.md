@@ -15,7 +15,7 @@ You will either find me learning JavaScript, curating the perfect Spotify playli
 <img  src="./icons/css.svg" alt="CSS" width="10" height="10"/> CSS &nbsp;
 <img  src="./icons/sass.svg" alt="Sass" width="10" height="10"/> Sass &nbsp;
 
-My first foray into the world of React & Typescript. The Weather App offers real-time forecasts and user-friendly navigation. Using the free Open-Meteo Weather API for weather data, with seamless location access and user preferences management. 
+My first foray into the world of React & Typescript. The Weather App offers real-time forecasts and user-friendly navigation. Using the free Open-Meteo Weather API for weather data, with location access and user preferences management. 
 
 > [View application](https://stormstina-react-weather-app.netlify.app/)
 
