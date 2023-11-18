@@ -176,7 +176,7 @@ Single-Page App (SPA) with client-side routing using vanilla JS classes. Server-
 
 <img  src="./logos/React-icon.svg.png" alt="React" height="50"/> &nbsp;
 <img  src="./logos/Typescript_logo.svg" alt="Typescript" height="50"/> &nbsp;
-<img  src="./logos/angular.png" alt="Angular" height="50"/> &nbsp;
+<img  src="./logos/angularLogo.png" alt="Angular" height="50"/> &nbsp;
 <img  src="./logos/tailwind.png" alt="Tailwind" height="50"/> &nbsp;
 <img  src="./logos/stencilLogo.png" alt="Stencil.js" height="50"/> &nbsp;
 <img  src="./logos/redux.svg" alt="Redux" height="50"/> &nbsp;
